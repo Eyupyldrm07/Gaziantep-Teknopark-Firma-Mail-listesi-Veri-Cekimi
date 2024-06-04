@@ -14,6 +14,7 @@ python kodunuzun_adı.py
 Kodu dikkatli kullanın.
 content_copy
 Çıktı
-Kod, her firmanın ismini ve e-posta adresini içeren bir sözlük yazdıracaktır. Örnek çıktı:
+Kod, her firmanın ismini ve e-posta adresini içeren bir sözlük yazdıracaktır.
 
+Örnek çıktı:
 {'Bilgisayar Bilimleri ve Yazılım A.Ş.': 'bilgi@bilbilisim.com.tr', 'Elektrik ve Elektronik Teknolojileri A.Ş.': 'info@eetek.com.tr', ...}
