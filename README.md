@@ -17,7 +17,3 @@ content_copy
 Kod, her firmanın ismini ve e-posta adresini içeren bir sözlük yazdıracaktır. Örnek çıktı:
 
 {'Bilgisayar Bilimleri ve Yazılım A.Ş.': 'bilgi@bilbilisim.com.tr', 'Elektrik ve Elektronik Teknolojileri A.Ş.': 'info@eetek.com.tr', ...}
-Notlar
-Bu kod, https://www.gaziantepteknopark.com.tr/ adresindeki web sitesinin güncel yapısına göre yazılmıştır. Web sitesi yapısı değişirse, kod güncellenmesi gerekebilir.
-Kod, tüm firmaların bilgilerini toplayacak şekilde tasarlanmıştır. Fakat, web sitesi bazı kısıtlamalar getiriyorsa veya veri erişimi engelleniyorsa kod tüm bilgileri toplayamaz.
-Bu kodun ticari amaçlarla kullanılmadan önce lisansının kontrol edilmesi ve gerekli izinlerin alınması gerekir.
